@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canservet&show_icons=true&locale=en" alt="canservet" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canservet&show_icons=true&locale=en&layout=compact" alt="canservet" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canservet&show_icons=true&locale=en&layout=compact" alt="canservet" />
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=canservet&" alt="canservet" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=canservet&show_icons=true&locale=en" alt="canservet" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=canservet&" alt="canservet" />
+</p>
