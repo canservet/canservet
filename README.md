@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
  <p align="center">
 
-  <a href="https://codepen.io/servetcan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="servetcan" height="50" width="50" /></a> <a href="https://twitter.com/servetcantr" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="servetcantr" height="50" width="50"  margin="100px"/></a> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=canservet&show_icons=true&locale=en&layout=compact" alt="canservet" />   <img  align="bottom" src="https://media.tenor.com/NdQW39Op3_0AAAAC/space-astronaut.gif" alt="alt text" width="295" height="500"></br>
+  <a href="https://codepen.io/servetcan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="servetcan" height="50" width="50" /></a> <a href="https://twitter.com/servetcantr" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="servetcantr" height="50" width="50"  margin="100px"/></a> 
 
     
  
