@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
  <p align="center">
 
-  <a href="https://codepen.io/servetcan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="servetcan" height="50" width="50" /></a> <a href="https://twitter.com/servetcantr" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="servetcantr" height="50" width="50"  margin="100px"/></a> 
+  <a href="https://codepen.io/servetcan" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="servetcan" height="100" width="100" /></a> <a href="https://twitter.com/servetcantr" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="servetcantr" height="100" width="100"  margin="100px"/></a> 
 
     
  
